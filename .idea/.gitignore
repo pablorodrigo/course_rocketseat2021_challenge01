@@ -1,0 +1,9 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Editor-based HTTP Client requests
+/httpRequests/
+aws.xml
+course_rocketseat2021_challenge01.iml
+modules.xml
+vcs.xml
